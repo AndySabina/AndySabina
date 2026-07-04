@@ -67,10 +67,10 @@ Version Control  Git · GitHub
 
 <p>
   <a href="https://www.linkedin.com/in/andy-sabina/">
-    <img alt="LinkedIn primary CTA" src="https://img.shields.io/badge/LinkedIn-Primary%20CTA-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://andysabina.com/">
-    <img alt="Portfolio secondary CTA" src="https://img.shields.io/badge/Portfolio-Secondary%20CTA-111827?style=flat-square">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge">
   </a>
 </p>
 
