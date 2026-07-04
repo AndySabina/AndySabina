@@ -31,7 +31,12 @@ I build AI-assisted software systems, agentic workflows, and maintainable web fo
 |---|---|---|
 | AI support workflows and assistant-oriented product architecture | [HelpDock AI](https://github.com/AndySabina/Help-Dock-IA) | Public, in development; not presented as a production SaaS |
 | Personal finance product foundations and practical web UX | Reficera.com | Private web app; secondary proof of full-stack product delivery |
-| AI-assisted engineering workflows | Gentle-AI style agents, memory, custom skills, and CLI-first tooling | Active personal engineering system |
+
+---
+
+## How I Work
+
+Linux terminal-first AI workflow with OpenCode, Gentle-AI, Engram, SDD, MCPs, guardrails, and orchestrator/subagent delegation to preserve context, focus tasks, and keep sensitive files out of model context.
 
 ---
 
