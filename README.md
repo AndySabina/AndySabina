@@ -16,9 +16,9 @@ I build AI-assisted software systems, agentic workflows, and maintainable web fo
 </p>
 
 <p>
-  <img alt="AI Software" src="https://img.shields.io/badge/AI%20Software-Engineer-2f80ed?style=flat-square">
-  <img alt="LLM Applications" src="https://img.shields.io/badge/LLM-Applications-6f42c1?style=flat-square">
-  <img alt="Agentic Systems" src="https://img.shields.io/badge/Agentic-Systems-0f766e?style=flat-square">
+  <img alt="AI Software Engineer" src="https://img.shields.io/badge/AI%20Software%20Engineer-0f766e?style=flat-square">
+  <img alt="LLM Applications" src="https://img.shields.io/badge/LLM%20Applications-6f42c1?style=flat-square">
+  <img alt="Agentic Systems" src="https://img.shields.io/badge/Agentic%20Systems-111827?style=flat-square">
 </p>
 
 </div>
