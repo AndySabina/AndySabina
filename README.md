@@ -12,7 +12,7 @@ I build RAG systems, agentic workflows, AI-assisted development tooling, and sol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-sabina/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-andysabina.com-111827?style=for-the-badge)](https://andysabina.com/)
 
-## Featured proof
+## Featured work
 
 ### [HelpDock AI](https://github.com/AndySabina/Help-Dock-IA)
 
@@ -38,16 +38,10 @@ Private personal finance web app used as secondary proof of full-stack product d
 
 ## Engineering discipline
 
-- I use AI as an engineering amplifier, not as a replacement for architecture, review, or ownership.
-- I care about small reviewable work units, clear acceptance criteria, and evidence-based claims.
-- I prefer systems that are understandable, testable, and easy to evolve after the first version ships.
+- AI as an engineering amplifier, with human ownership over architecture, review, and decisions.
+- Small reviewable work units, clear acceptance criteria, and evidence-based claims.
+- Systems designed to be understandable, testable, and easy to evolve after the first version ships.
 
-## GitHub signal
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AndySabina&show_icons=true&hide_title=true&hide_rank=true&theme=default&hide_border=true" alt="Andy Sabina GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndySabina&layout=compact&theme=default&hide_border=true" alt="Andy Sabina most used languages" />
-</p>
 
 ## Next step
 
