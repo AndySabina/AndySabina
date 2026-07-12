@@ -8,7 +8,7 @@ I build AI-assisted software systems, agentic workflows, and maintainable web fo
 
 <p>
   <a href="https://www.linkedin.com/in/andy-sabina/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://andysabina.com/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-andysabina.com-111827?style=for-the-badge">
@@ -62,8 +62,8 @@ Version Control  Git · GitHub
 
 <div align="center">
 
-**Want the fastest overview? Start with LinkedIn.**<br>
-**Want more technical context? Continue to the portfolio.**
+**Professional background on LinkedIn.**<br>
+**Projects and technical context on the portfolio.**
 
 <p>
   <a href="https://www.linkedin.com/in/andy-sabina/">
