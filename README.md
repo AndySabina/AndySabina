@@ -2,9 +2,11 @@
 
 # Andy Sabina
 
-**AI Software Engineer · LLM Application Engineer**
+**Software Developer · AI Product Engineering**
 
-I build AI-assisted software systems, agentic workflows, and maintainable web foundations with a bias toward clear architecture, reviewable delivery, and human-owned decisions.
+I build AI powered features that fit naturally into real software products.
+
+My work connects user workflows, interfaces, APIs, data, background jobs, validation, and tests so product behavior remains clear, reviewable, and reliable.
 
 <p>
   <a href="https://www.linkedin.com/in/andy-sabina/">
@@ -15,55 +17,59 @@ I build AI-assisted software systems, agentic workflows, and maintainable web fo
   </a>
 </p>
 
-<p>
-  <img alt="AI Software Engineer" src="https://img.shields.io/badge/AI%20Software%20Engineer-0f766e?style=flat-square">
-  <img alt="LLM Applications" src="https://img.shields.io/badge/LLM%20Applications-6f42c1?style=flat-square">
-  <img alt="Agentic Systems" src="https://img.shields.io/badge/Agentic%20Systems-111827?style=flat-square">
-</p>
-
 </div>
 
 ---
 
 ## What I'm Building
 
-| Focus | Proof | Status |
-|---|---|---|
-| AI support workflows and assistant-oriented product architecture | [HelpDock AI](https://github.com/AndySabina/Help-Dock-IA) | Public, in development; not presented as a production SaaS |
-| Personal finance product foundations and practical web UX | Reficera.com | Private web app; secondary proof of full-stack product delivery |
+### [HelpDock AI](https://github.com/AndySabina/Help-Dock-IA)
+
+Public support product in development. It uses documentation evidence to answer questions, refuses when retrieval is not ready, and offers ticket escalation.
+
+* TypeScript monorepo with API, admin, widget, worker, shared domain, and persistence packages
+* Answer and refusal paths, origin checks, readiness checks, redacted audit events, and ticket creation or reuse
+* Markdown validation, deterministic chunking, duplicate detection, deletion planning, and indexing readiness
+* Automated tests and continuous integration gates across runtime, domain, persistence, configuration, and service behavior
+
+### [Reficera](https://reficera.com/)
+
+Private personal finance application for planning budgets, managing transactions, and reviewing monthly and annual performance through dashboards and charts.
+
+* Verified sessions and user scoped data boundaries for budgets, subcategories, and transactions
+* Monthly breakdowns for income, expenses, savings, investments, debt, carry over, and savings rate
+* Annual summaries, dashboard charts, and transaction history
+* Automated and Playwright coverage for authentication, ownership boundaries, budgets, and transaction journeys
 
 ---
 
-## How I Work
+## How I Build
 
-Linux terminal-first AI workflow with OpenCode, Gentle-AI, Engram, SDD, MCPs, guardrails, and orchestrator/subagent delegation to preserve context, focus tasks, and keep sensitive files out of model context.
+I use specification driven development to turn product requirements into clear plans, traceable implementation, and verified software changes.
 
 ---
 
-## Tech DNA
+## Core Technologies
 
 ```text
-AI CLI            Claude · OpenCode · Codex · Pi
-Agentic Systems  Gentle-AI · Engram · OpenClaw · GGA
-Extensibility    MCP Servers · CLI Plugins · Custom Skills
-Editor           Neovim
-Version Control  Git · GitHub
+JavaScript · HTML · CSS · Tailwind CSS
+Playwright · Git · GitHub · Bash
 ```
 
 ---
 
-## Engineering Discipline
+## Engineering Principles
 
-- AI is an accelerator, not a substitute for architecture, review, or ownership.
-- Work should be small enough to review, clear enough to maintain, and grounded in acceptance criteria.
-- Good systems are understandable after the first version ships, not only impressive during the demo.
+* I start from the user workflow and define expected behavior before implementation.
+* I treat AI as an engineering tool, not a substitute for architecture, testing, review, or ownership.
+* I keep changes focused, traceable, and supported by verification evidence.
 
 ---
 
 <div align="center">
 
 **Professional background on LinkedIn.**<br>
-**Projects and technical context on the portfolio.**
+**Product work and technical context on my portfolio.**
 
 <p>
   <a href="https://www.linkedin.com/in/andy-sabina/">
