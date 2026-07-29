@@ -23,15 +23,6 @@ My work connects user workflows, interfaces, APIs, data, background jobs, valida
 
 ## What I'm Building
 
-### [HelpDock AI](https://github.com/AndySabina/Help-Dock-IA)
-
-Public support product in development. It uses documentation evidence to answer questions, refuses when retrieval is not ready, and offers ticket escalation.
-
-* TypeScript monorepo with API, admin, widget, worker, shared domain, and persistence packages
-* Answer and refusal paths, origin checks, readiness checks, redacted audit events, and ticket creation or reuse
-* Markdown validation, deterministic chunking, duplicate detection, deletion planning, and indexing readiness
-* Automated tests and continuous integration gates across runtime, domain, persistence, configuration, and service behavior
-
 ### [Reficera](https://reficera.com/)
 
 Private personal finance application for planning budgets, managing transactions, and reviewing monthly and annual performance through dashboards and charts.
@@ -40,29 +31,14 @@ Private personal finance application for planning budgets, managing transactions
 * Monthly breakdowns for income, expenses, savings, investments, debt, carry over, and savings rate
 * Annual summaries, dashboard charts, and transaction history
 * Automated and Playwright coverage for authentication, ownership boundaries, budgets, and transaction journeys
-
----
-
-## How I Build
-
-I use specification driven development to turn product requirements into clear plans, traceable implementation, and verified software changes.
-
 ---
 
 ## Core Technologies
 
 ```text
-JavaScript · HTML · CSS · Tailwind CSS
-Playwright · Git · GitHub · Bash
+HTML · CSS · JavaScript · Phyton 
+OpenCode-CLI· Gentle-AI · Engram 
 ```
-
----
-
-## Engineering Principles
-
-* I start from the user workflow and define expected behavior before implementation.
-* I treat AI as an engineering tool, not a substitute for architecture, testing, review, or ownership.
-* I keep changes focused, traceable, and supported by verification evidence.
 
 ---
 
