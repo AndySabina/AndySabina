@@ -36,8 +36,8 @@ Private personal finance application for planning budgets, managing transactions
 ## Core Technologies
 
 ```text
-HTML · CSS · JavaScript · Phyton 
-OpenCode-CLI· Gentle-AI · Engram 
+HTML · CSS · JavaScript 
+Pi · Gentle-AI · Engram 
 ```
 
 ---
