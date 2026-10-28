@@ -2,18 +2,18 @@
 
 # Andy Sabina
 
-**Software Developer · AI Product Engineering**
+**Software Engineer · Austin, TX**
 
-I build AI powered features that fit naturally into real software products.
+You bring the need, I deliver the solution. I turn your requirements into a web solution that works, tested before it reaches your users, with AI where it saves your team time.
 
-My work connects user workflows, interfaces, APIs, data, background jobs, validation, and tests so product behavior remains clear, reviewable, and reliable.
+Open to full-time W-2 or contract-to-hire roles.
 
 <p>
-  <a href="https://www.linkedin.com/in/andy-sabina/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://andysabina.com/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-andysabina.com-111827?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/andy-sabina/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-andy--sabina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -21,39 +21,49 @@ My work connects user workflows, interfaces, APIs, data, background jobs, valida
 
 ---
 
-## What I'm Building
+## Projects
 
-### [Reficera](https://reficera.com/)
+### [Reficera](https://andysabina.com/projects/reficera/)
 
-Private personal finance application for planning budgets, managing transactions, and reviewing monthly and annual performance through dashboards and charts.
+Personal finance app · Live · English & Spanish
 
-* Verified sessions and user scoped data boundaries for budgets, subcategories, and transactions
-* Monthly breakdowns for income, expenses, savings, investments, debt, carry over, and savings rate
-* Annual summaries, dashboard charts, and transaction history
-* Automated and Playwright coverage for authentication, ownership boundaries, budgets, and transaction journeys
+Plan a yearly budget, compare it with what you really spend each month and build a plan to pay off debt.
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+[Read the case study](https://andysabina.com/projects/reficera/) · [Try the live demo](https://reficera.com)
+
+### [Gentle Shell Browser](https://andysabina.com/projects/gentle-shell-browser/)
+
+Browser extension for coding agents · Open source · MIT
+
+Let a coding agent use the Chrome you already have open, inside its own tab group, while you watch every step and approve what it does.
+
+`TypeScript` `Chrome Extensions` `WebSocket`
+
+[Read the case study](https://andysabina.com/projects/gentle-shell-browser/) · [Source code](https://github.com/AndySabina/gentle-shell-browser)
+
 ---
 
-## Core Technologies
+## What you gain
 
-```text
-HTML · CSS · JavaScript 
-Pi · Gentle-AI · Engram 
-```
+- **Fewer rewrites:** I confirm the requirements before writing code.
+- **Fewer bugs in production:** every feature is built test-first (TDD).
+- **Faster delivery without cutting corners:** AI speeds up the work, tests keep it safe.
+- **No guessing what changed:** every pull request explains what changed and why.
+
+---
+
+## Skills and tools
+
+**Foundations:** HTML · CSS · JavaScript<br>
+**Building with AI:** Claude Code · Pi · Gentle AI · Engram · Herdr<br>
+**Workflow:** Git · GitHub · Cloudflare
 
 ---
 
 <div align="center">
 
-**Professional background on LinkedIn.**<br>
-**Product work and technical context on my portfolio.**
-
-<p>
-  <a href="https://www.linkedin.com/in/andy-sabina/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://andysabina.com/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge">
-  </a>
-</p>
+**Have a role to fill? [Tell me about it on my portfolio](https://andysabina.com/#contact).**
 
 </div>
